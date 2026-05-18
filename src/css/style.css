@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --main-color: aliceblue;
+  --first-player: red;
+  --second-player: orange;
+  --field-width: 7;
+  --field-height: 6;
+  --x-coeff: 0;
+  --y-coeff: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Horizontal centering */
+  align-items: center;
+}
+
+.footer {
+  flex-shrink: 0;
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Horizontal centering */
+  align-items: center;
+}
+
+.button-install {
+  display: block;
+  margin: auto;
+  background-color: #2AABEE;
+  color: white;
+  min-height: 60px;
+  min-width: 300px;
+}
+
+.hidden {
+  display: none;
+}
