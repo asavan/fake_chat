@@ -1,3 +1,4 @@
 export default function main(window, document) {
-    console.log("Start");
+    const installBtn = document.querySelector(".js-install");
+    console.log("Start", installBtn);
 }
