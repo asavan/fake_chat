@@ -1,0 +1,8 @@
+# fake_chat
+
+[![Test covered](https://github.com/asavan/fake_chat/actions/workflows/static.yml/badge.svg)](https://github.com/asavan/fake_chat/actions/workflows/static.yml)
+
+### Полезные ссылки
+https://github.com/morethanwords/tweb
+
+https://github.com/morethanwords/tweb/blob/master/src/helpers/dialogsPlaceholder.ts

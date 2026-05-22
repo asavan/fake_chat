@@ -13,5 +13,5 @@ package-lock.json
 info
 coverage
 docs
-assets
+/assets/
 working_assets
