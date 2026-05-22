@@ -1,6 +1,6 @@
 # fake_chat
 
-[![Test covered](https://github.com/asavan/fake_chat/actions/workflows/static.yml/badge.svg)](https://github.com/asavan/fake_chat/actions/workflows/static.yml)
+[![Test covered](https://github.com/asavan/fake_chat/actions/workflows/deploy.yml/badge.svg)](https://github.com/asavan/fake_chat/actions/workflows/deploy.yml)
 
 ### Полезные ссылки
 https://github.com/morethanwords/tweb
