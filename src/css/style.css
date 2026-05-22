@@ -1,9 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 :root {
   --main-color: aliceblue;
   --first-player: red;
@@ -12,17 +6,6 @@
   --field-height: 6;
   --x-coeff: 0;
   --y-coeff: 0;
-}
-
-html,
-body {
-  height: 100%;
-}
-
-body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
 }
 
 .content {
